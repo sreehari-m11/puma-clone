@@ -1,6 +1,6 @@
 # Puma Website Clone
 
-A static front-end clone of the [Puma India](https://in.puma.com) website, built as a UI practice project using HTML and CSS.
+A static front-end clone of the Puma India website, built as a UI practice project using HTML and CSS.
 
 # Overview
 
